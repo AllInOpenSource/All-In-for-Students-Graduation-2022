@@ -5,8 +5,7 @@ labels: ["yearbook-quote-submission"]
 body:
   - type: markdown
     attributes:
-      value: |
-        Congratulations on completing the All In Program. Submit your favorite quote as part of our celebratory graduation!
+      value: Congratulations on completing the All In Program. Submit your favorite quote as part of our celebratory graduation!
   - type: input
     id: name
     attributes:
