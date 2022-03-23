@@ -1,0 +1,33 @@
+name: Yearbook Quote
+description: Congratulations on completing the All In Program. Submit your favorite quote as part of our celebratory graduation!
+title: "[Add Year Book Quote for]: "
+labels: ["yearbook-quote-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Congratulations on completing the All In Program. Submit your favorite quote as part of our celebratory graduation!
+  - type: input
+    id: name
+    attributes:
+      label: Your Full Name
+      description: Your Full Name
+      placeholder: ex. Rizel Scarlett
+    validations:
+      required: true
+  - type: input
+    id: institution
+    attributes:
+      label: Institution
+      description: Your Institution/School/Coding Bootcamp
+      placeholder: ex. Boston University
+    validations:
+      required: true
+  - type: input
+    id: quote
+    attributes:
+      label: Quote
+      description: Your Favorite Quote
+      placeholder: ex. "If you can dream it up, you can do it"
+    validations:
+      required: true
