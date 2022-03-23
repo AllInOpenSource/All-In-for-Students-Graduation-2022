@@ -31,3 +31,12 @@ body:
       placeholder: ex. "If you can dream it up, you can do it"
     validations:
       required: true
+   - type: input
+    id: github_handle
+    attributes:
+      label: GitHub Handle
+      description: Your GitHub Handle
+      placeholder: ex. @blackgirlbytes
+    validations:
+      required: true     
+ 
