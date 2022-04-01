@@ -43,6 +43,6 @@ As our guests of honor, please be sure to invite your friends, family and loved 
 
 📆 Wednesday, April 20, 2022
 
-⏰ 6pm ET | 3pm PT
+⏰ 5:45pm ET | 2:45pm PT
 
-📎 Add the event to your calendar (Google calendar invite).
+📎 [Add the event to your calendar](https://calendar.google.com/calendar/u/0/r/eventedit/N282M2w5YjJkdDZ2Z3I0NmhiM2piZzg0NWUgY18xdmxmdmt0aWs5NWMza2drb2tzOWVrMzBqa0Bn?sf=true&output=html&action=TEMPLATE&eid=N282M2w5YjJkdDZ2Z3I0NmhiM2piZzg0NWUgY18xdmxmdmt0aWs5NWMza2drb2tzOWVrMzBqa0Bn&eref=7o63l9b2dt6vgr46hb3jbg845e).
