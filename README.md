@@ -28,12 +28,9 @@ Here are two required steps to receive your All In graduation present and offici
     - If there is a merge conflict and you’re unsure of how to fix it, reach out to a mentor or read this blog post about resolving merge conflicts: https://dev.to/github/how-do-i-resolve-merge-conflicts-5438
     - Your pull request will be approved and merged within 24-48 hours by one of the repository owners.
     
-**Submitting the form does not guarantee you will receive swag in the mail. Only those that successfully merge their pull request to the Yearbook will receive a shipment**
+🛍 **Submitting the form does not guarantee you will receive swag in the mail. Only those that successfully merge their pull request to the Yearbook will receive a shipment**
 
-## A note on swag 🛍
-
-If you have not already done so, please respond to the direct email you received from Sarah Oyetuboon
-Graduation Day 🎓
+## Graduation Day 🎓
 
 As our guests of honor, please be sure to invite your friends, family and loved ones to join us on graduation day!
 
