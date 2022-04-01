@@ -1,3 +1,6 @@
+![All In Logo](https://user-images.githubusercontent.com/70516588/161295104-23de94dd-95f8-4d07-8e1e-7cf078b27d8d.png)
+
+
 # All-In-for-Students-Graduation-2022
 
 ## Updates
@@ -43,3 +46,5 @@ As our guests of honor, please be sure to invite your friends, family and loved 
 ## Questions?
 
 Contact Sarah Oyetubo: soyetubo@github.com
+
+![0-2](https://user-images.githubusercontent.com/70516588/161295135-5db56853-0fa7-4d36-8f74-bd7b957209c4.png)
