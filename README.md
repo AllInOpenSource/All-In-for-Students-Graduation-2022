@@ -21,8 +21,8 @@ Here are two required steps to receive your All In graduation present and offici
  and attend graduation 🥳
 2.  🏫 Add yourself to Yearbook through the following steps:
     - Click Issues
-    - Create a New Issue
-    - Click ‘Get Started’ to use the Yearbook Quote template
+    - Create a [New Issue](https://github.com/AllInOpenSource/All-In-for-Students-Graduation-2022/issues/new/choose)
+    - Click [‘Get Started’](https://github.com/AllInOpenSource/All-In-for-Students-Graduation-2022/issues/new?assignees=&labels=yearbook-quote-submission&template=yearbook_quote_submission.yml&title=%5BAdd+Yearbook+Quote+for%5D%3A+) to use the Yearbook Quote template
     - Fill out all the fields including the title, your full name, your favorite quote, your GitHub handle, and your institution
     - Submit the issue
     - This should automatically open up a pull request with the information you submitted. This pull request is made to add you to the yearbook quotes markdown file
