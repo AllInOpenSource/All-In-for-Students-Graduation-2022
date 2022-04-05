@@ -1,8 +1,17 @@
-# Yearbook Quotes 
+---
+### Your Full Name
 
-<!-- The user below is an example of what you should submit -->
-<!-- name: Rizel Scarlett
-Institution: Boston University
-quote: If you can dream it up, you can do it 
-github_user: blackgirlbytes 
--->
+William Talbert
+
+### Institution
+
+Winston Salem State University
+
+### Quote
+
+Do Not Go Where The Path May Lead, Go Instead Where There Is No Path And Leave A Trail - Ralph Waldo Emerson
+
+### GitHub Handle
+
+@wctrocky
+----
