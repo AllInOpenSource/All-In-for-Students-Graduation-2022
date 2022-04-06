@@ -1,8 +1,17 @@
-# Yearbook Quotes 
+---
+### Your Full Name
 
-<!-- The user below is an example of what you should submit -->
-<!-- name: Rizel Scarlett
-Institution: Boston University
-quote: If you can dream it up, you can do it 
-github_user: blackgirlbytes 
--->
+Linda N'simire Sylvie
+
+### Institution
+
+university of North-Carolina - Pembroke
+
+### Quote
+
+And we know that in all things God works for the good of those who love him, who have been called according to his purpose. Romans 8:28
+
+### GitHub Handle
+
+@lns011
+----
