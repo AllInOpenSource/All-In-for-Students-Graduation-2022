@@ -1,6 +1,23 @@
 ---
 ### Your Full Name
 
+Angel Maynor
+
+### Institution
+
+Winston-Salem State University
+
+### Quote
+
+It's All Happening 
+
+### GitHub Handle
+
+@aiangelm
+
+----
+### Your Full Name
+
 Linda N'simire Sylvie
 
 ### Institution
@@ -47,4 +64,3 @@ Do Not Go Where The Path May Lead, Go Instead Where There Is No Path And Leave A
 ### GitHub Handle
 
 @wctrocky
-
