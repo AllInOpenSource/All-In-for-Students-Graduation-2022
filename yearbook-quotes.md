@@ -1,8 +1,17 @@
-# Yearbook Quotes 
+---
+### Your Full Name
 
-<!-- The user below is an example of what you should submit -->
-<!-- name: Rizel Scarlett
-Institution: Boston University
-quote: If you can dream it up, you can do it 
-github_user: blackgirlbytes 
--->
+Angel Maynor
+
+### Institution
+
+Winston-Salem State University
+
+### Quote
+
+It's All Happening 
+
+### GitHub Handle
+
+@aiangelm
+----
