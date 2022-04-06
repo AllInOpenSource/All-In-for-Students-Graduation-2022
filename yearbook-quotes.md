@@ -1,8 +1,17 @@
-# Yearbook Quotes 
+---
+### Your Full Name
 
-<!-- The user below is an example of what you should submit -->
-<!-- name: Rizel Scarlett
-Institution: Boston University
-quote: If you can dream it up, you can do it 
-github_user: blackgirlbytes 
--->
+Ebun Blessing Adebesin
+
+### Institution
+
+Huston Tillotson University
+
+### Quote
+
+There are no limits to what you can accomplish, except the limits you place on your own thinking
+
+### GitHub Handle
+
+ebadebesin
+----
