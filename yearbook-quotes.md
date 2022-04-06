@@ -1,8 +1,17 @@
-# Yearbook Quotes 
+---
+### Your Full Name
 
-<!-- The user below is an example of what you should submit -->
-<!-- name: Rizel Scarlett
-Institution: Boston University
-quote: If you can dream it up, you can do it 
-github_user: blackgirlbytes 
--->
+Adrian Whitehurst
+
+### Institution
+
+Clark Atlanta University
+
+### Quote
+
+"You got to pace yourself, its all about your breathing. You can have it all, its all about your reason!" - Nipsey Hussle
+
+### GitHub Handle
+
+@AdrianW90
+----
