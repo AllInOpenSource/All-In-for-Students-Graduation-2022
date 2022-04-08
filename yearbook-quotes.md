@@ -98,3 +98,19 @@ Do Not Go Where The Path May Lead, Go Instead Where There Is No Path And Leave A
 ### GitHub Handle
 
 @wctrocky
+
+### Your Full Name
+
+Elikem R. Des-Amekudi
+
+### Institution
+
+Shaw university
+
+### Quote
+
+Just relax it will all work out 
+
+### GitHub Handle
+
+@Deselikem
