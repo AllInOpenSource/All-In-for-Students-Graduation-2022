@@ -1,17 +1,17 @@
 ---
 ### Your Full Name
 
-Mykayla Graham
+Kris Mannino
 
 ### Institution
 
-North Carolina Central University
+Winston Salem State University
 
 ### Quote
 
-“Don’t try to lessen yourself for the world; let the world catch up to you.”
+"Believe" - Ted Lasso
 
 ### GitHub Handle
 
-@mykaylagraham
+@KrisMannino
 ----
