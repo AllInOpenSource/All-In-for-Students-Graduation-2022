@@ -1,17 +1,17 @@
 ---
 ### Your Full Name
 
-Mykayla Graham
+Joseph Smith
 
 ### Institution
 
-North Carolina Central University
+University of North Carolina at Pembroke
 
 ### Quote
 
-“Don’t try to lessen yourself for the world; let the world catch up to you.”
+Be the best version of yourself in anything you do, You don't have to live anyone else's story
 
 ### GitHub Handle
 
-@mykaylagraham
+@jsmith2320
 ----
