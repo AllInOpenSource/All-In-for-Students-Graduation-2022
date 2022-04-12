@@ -1,17 +1,17 @@
 ---
 ### Your Full Name
 
-Mykayla Graham
+Asante Harris
 
 ### Institution
 
-North Carolina Central University
+Clark Atlanta University
 
 ### Quote
 
-“Don’t try to lessen yourself for the world; let the world catch up to you.”
+"Being a boss is all about adding to your resume" -Nicki Minaj
 
 ### GitHub Handle
 
-@mykaylagraham
+@asanteaharris4
 ----
