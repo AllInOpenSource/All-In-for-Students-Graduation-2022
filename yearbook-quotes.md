@@ -1,17 +1,17 @@
 ---
 ### Your Full Name
 
-Mykayla Graham
+Bernard Emmanuel Zandonda
 
 ### Institution
 
-North Carolina Central University
+Saint Augustine's University
 
 ### Quote
 
-“Don’t try to lessen yourself for the world; let the world catch up to you.”
+The most important part of success is taking that first step; that first step is the very essense of faith
 
 ### GitHub Handle
 
-@mykaylagraham
+@zandondab
 ----
