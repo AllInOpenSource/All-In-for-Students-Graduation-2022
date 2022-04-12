@@ -1,17 +1,17 @@
 ---
 ### Your Full Name
 
-Mykayla Graham
+Caleb Simmons
 
 ### Institution
 
-North Carolina Central University
+Shaw University 
 
 ### Quote
 
-“Don’t try to lessen yourself for the world; let the world catch up to you.”
+"Some people want it to happen, some wish it would happen, others make it happen" - Michael Jordan 
 
 ### GitHub Handle
 
-@mykaylagraham
+https://github.com/iHoopcs
 ----
