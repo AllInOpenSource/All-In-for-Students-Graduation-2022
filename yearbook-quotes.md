@@ -1,17 +1,17 @@
 ---
 ### Your Full Name
 
-Mykayla Graham
+Kezia Cook
 
 ### Institution
 
-North Carolina Central University
+Clark Atlanta University
 
 ### Quote
 
-“Don’t try to lessen yourself for the world; let the world catch up to you.”
+All they can do is say no.
 
 ### GitHub Handle
 
-@mykaylagraham
+@keziacatrece01
 ----
