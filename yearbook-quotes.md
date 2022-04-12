@@ -1,7 +1,7 @@
 ---
 ### Your Full Name
 
-Mykayla Graham
+Kayla Farrar
 
 ### Institution
 
@@ -9,9 +9,9 @@ North Carolina Central University
 
 ### Quote
 
-“Don’t try to lessen yourself for the world; let the world catch up to you.”
+You miss 100% of the shots you don't take.
 
 ### GitHub Handle
 
-@mykaylagraham
+@kdfarrar
 ----
