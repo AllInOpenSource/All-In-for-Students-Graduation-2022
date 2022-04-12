@@ -1,7 +1,7 @@
-## 🎉 Name: 
+## 🎉 Name: Joseph Smith
 
-### 🏫 Institution:
+### 🏫 Institution: University of North Carolina at Pembroke
 
-### 🤔Quote: 
+### 🤔Quote: "Be the Best version of yourself in anything You do, You don't have to live anyone else's story
 
-### 💻 GitHub User Handle:
+### 💻 GitHub User Handle: @jsmith2320
