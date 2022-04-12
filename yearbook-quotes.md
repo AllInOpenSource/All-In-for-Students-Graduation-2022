@@ -1,17 +1,17 @@
 ---
 ### Your Full Name
 
-Mykayla Graham
+Christopher McSweeney Jr
 
 ### Institution
 
-North Carolina Central University
+Shaw University 
 
 ### Quote
 
-“Don’t try to lessen yourself for the world; let the world catch up to you.”
+First it’s the belief that you can do somethIng, then it’s the work you put in to make those beliefs come true  
 
 ### GitHub Handle
 
-@mykaylagraham
+@mcsweene
 ----
