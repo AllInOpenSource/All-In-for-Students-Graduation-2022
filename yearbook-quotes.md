@@ -1,17 +1,17 @@
 ---
 ### Your Full Name
 
-Diamond L Bryant
+Jeffrey Adkisson Jr
 
 ### Institution
 
-North Carolina Central University 
+Shaw University
 
 ### Quote
 
-Be Stronger than your excuses 
+"We all have dreams. But in order to make dreams come into reality, it takes an awful lot of determination, dedication, self-discipline, and effort."
 
 ### GitHub Handle
 
-@dbryan58
+@Jadkisson5
 ----
