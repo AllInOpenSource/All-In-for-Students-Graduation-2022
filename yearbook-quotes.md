@@ -1,17 +1,17 @@
 ---
 ### Your Full Name
 
-Diamond L Bryant
+Kayla Partee
 
 ### Institution
 
-North Carolina Central University 
+Clark Atlanta University
 
 ### Quote
 
-Be Stronger than your excuses 
+You are the paint brush, the paint, and the portrait, create what you wish to experience. 
 
 ### GitHub Handle
 
-@dbryan58
+@kaylapartee01
 ----
