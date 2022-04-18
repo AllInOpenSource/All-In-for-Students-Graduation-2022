@@ -14,6 +14,7 @@ Shaw University
 ### GitHub Handle
 
 @Jadkisson5
+
 ---
 ### Your Full Name
 
@@ -30,6 +31,7 @@ You are the paint brush, the paint, and the portrait, create what you wish to ex
 ### GitHub Handle
 
 @kaylapartee01
+
 ---
 ### Your Full Name
 
