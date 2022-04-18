@@ -372,7 +372,7 @@ Clark Atlanta University
 
 @AdrianW90
 
-—
+---
 ### Your Full Name
 
 William Talbert
@@ -388,5 +388,6 @@ Do Not Go Where The Path May Lead, Go Instead Where There Is No Path And Leave A
 ### GitHub Handle
 
 @wctrocky
+
 ----
 
