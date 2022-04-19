@@ -8,7 +8,7 @@ This repository contains the yearbook for All In for Students 2022 graduates.
 
 
 ## Instructions for All In 2022 Graduates
-By issuing a pull request to this repository, you can request to be added to the Class of 2022.
+By issuing a pull request to this repository, you can request to be added to the Class of 2022 Yearbook.
 
 ## Privacy Notice 👀
 Consider that all the information that you add to this repository will be publicly available.
@@ -17,7 +17,7 @@ Consider that all the information that you add to this repository will be public
 ## Who can apply 📝
 We invite any student who is in compliance with the signed [All In for Students: Student Agreement and Expectations](https://docs.google.com/forms/d/1MhqtSM6cIo0003EmeNHl2usyVYCB4s4ULj8H0u_8eMY/edit); and has completed both semesters of the 12-month All In for Students program to apply to the yearbook and attend the program graduation ceremony. 
 
-## How to join the Class of 2022
+## How to join the Class of 2022 Yearbook
 
 Here are two required steps to receive your All In graduation present and officially be recognized as a participant of the All In for Students Class of 2022.
 
