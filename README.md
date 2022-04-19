@@ -6,7 +6,10 @@
 
 
 ## Updates
-This repository contains the yearbook for All In for Students Graduation 2022. By issuing a pull request to this repository, you can request to be added to the Class of 2022.
+This repository contains the yearbook for All In for Students Graduation 2022. 
+
+## Instructions for All In 2022 Students
+By issuing a pull request to this repository, you can request to be added to the Class of 2022.
 
 ## Privacy Notice 👀
 Consider that all the information that you add to this repository will be publicly available.
