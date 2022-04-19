@@ -1,7 +1,7 @@
 
 # All-In-for-Students-2022-Graduates
 
-This repository contains the yearbook for All In for Students 2022 graduates. 
+This repository contains the All In for Students 2022 Graduates Yearbook. 
 
 ## 2022 Yearbook
 ![YearBook2022](https://user-images.githubusercontent.com/70516588/164084845-5018baa9-ce01-45c2-b1df-39cf1b6c49c9.jpg)
@@ -19,6 +19,8 @@ We invite any student who is in compliance with the signed [All In for Students:
 
 ## How to join the Class of 2022 Yearbook
 
+### By issuing a pull request to this repository, you can request to be added to the Class of 2022 yearbook and receive your graduation swag.
+
 Here are two required steps to receive your All In graduation present and officially be recognized as a participant of the All In for Students Class of 2022.
 
 1.  Save the date [Google calendar invite](https://calendar.google.com/calendar/u/0/r/eventedit/N282M2w5YjJkdDZ2Z3I0NmhiM2piZzg0NWUgY18xdmxmdmt0aWs5NWMza2drb2tzOWVrMzBqa0Bn?sf=true&output=html&action=TEMPLATE&eid=N282M2w5YjJkdDZ2Z3I0NmhiM2piZzg0NWUgY18xdmxmdmt0aWs5NWMza2drb2tzOWVrMzBqa0Bn&eref=7o63l9b2dt6vgr46hb3jbg845e).
@@ -27,11 +29,11 @@ Here are two required steps to receive your All In graduation present and offici
     - Click Issues
     - Create a [New Issue](https://github.com/AllInOpenSource/All-In-for-Students-Graduation-2022/issues/new/choose)
     - Click [‘Get Started’](https://github.com/AllInOpenSource/All-In-for-Students-Graduation-2022/issues/new?assignees=&labels=yearbook-quote-submission&template=yearbook_quote_submission.yml&title=%5BAdd+Yearbook+Quote+for%5D%3A+) to use the Yearbook Quote template
-    - Fill out all the fields including the title, your full name, your favorite quote, your GitHub handle, and your institution
+    - Fill out all the fields, including the title, your full name, your favorite quote, your GitHub handle, and your institution
     - Submit the issue
     - This should automatically open up a pull request with the information you submitted. This pull request is made to add you to the yearbook quotes markdown file
     - Here’s an example of what your pull request should look like: https://github.com/AllInOpenSource/All-In-for-Students-Graduation-2022/pull/12
-    - Check your pull request to double check that there are no merge conflicts
+    - Check your pull request to double-check that there are no merge conflicts
     - If there is a merge conflict and you’re unsure of how to fix it, reach out to a mentor or read this blog post about resolving merge conflicts: https://dev.to/github/how-do-i-resolve-merge-conflicts-5438
     - Your pull request will be approved and merged within 24-48 hours by one of the repository owners.
 
@@ -41,7 +43,7 @@ Here are two required steps to receive your All In graduation present and offici
 
 ## Graduation Day 🎓
 
-As our guests of honor, please be sure to invite your friends, family and loved ones to join us on graduation day!
+As our guests of honor, please be sure to invite your friends, family, and loved ones to join us on graduation day!
 
 📆 Wednesday, April 20, 2022
 
@@ -52,4 +54,5 @@ As our guests of honor, please be sure to invite your friends, family and loved 
 ## Questions?
 
 Contact Sarah Oyetubo: soyetubo@github.com
+
 
