@@ -34,6 +34,8 @@ Here are two required steps to receive your All In graduation present and offici
     - Check your pull request to double check that there are no merge conflicts
     - If there is a merge conflict and you’re unsure of how to fix it, reach out to a mentor or read this blog post about resolving merge conflicts: https://dev.to/github/how-do-i-resolve-merge-conflicts-5438
     - Your pull request will be approved and merged within 24-48 hours by one of the repository owners.
+
+### Submissions are due Wednesday, April 13, 2022. 
     
 🛍 **Submitting the form does not guarantee you will receive swag in the mail. Only those that successfully merge their pull request to the Yearbook will receive a shipment**
 
