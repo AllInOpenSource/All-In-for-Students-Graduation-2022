@@ -1,7 +1,7 @@
 
 # All-In-for-Students-2022-Graduates
 
-This repository contains the yearbook for All In for Students Graduation 2022. 
+This repository contains the yearbook for All In for Students 2022 graduates. 
 
 ## 2022 Yearbook
 ![YearBook2022](https://user-images.githubusercontent.com/70516588/164084845-5018baa9-ce01-45c2-b1df-39cf1b6c49c9.jpg)
